@@ -12,11 +12,10 @@ By the end of this project, you will be able to create a simple note-taking web 
 
 ## Project Structure
 
-The project is divided into 3 parts:
+The project is divided into 2 parts:
 
 1. **Project Overview:** This introductory reading material.
 2. **Building a Dynamic Web App using PHP & MySQL:** This is the hands-on project that we will work on in Rhyme.
-3. **Graded Quiz:** This is the final assignment that you need to pass in order to finish the project successfully.
 
 ## Task Structure
 
